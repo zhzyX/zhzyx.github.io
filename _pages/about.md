@@ -25,7 +25,7 @@ NAPPN 2021 [[paper]](https://www.essoar.org/doi/10.1002/essoar.10508292.1)
 Xiaotong Liu, Zeyu Zhang, Hong Xuan, Roxana Leontie, Abby Stylianou, Robert Pless   
 WACV 2020 [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Liu_2-MAP_Aligned_Visualizations_for_Comparison_of_High-Dimensional_Point_Sets_WACV_2020_paper.pdf)
 - **Visualizing Data Driven Phenotypes**   
-Zeyu Zhang, Hong Xuan, Xiaotong Liu, Abby Stylianou, Robert Ples
+Zeyu Zhang, Hong Xuan, Xiaotong Liu, Abby Stylianou, Robert Pless   
 CVPPP 2019 [[paper]](https://www.plant-phenotyping.org/lw_resource/datapool/systemfiles/elements/files/c7538f5c-7552-11e9-b1c5-dead53a91d31/current/document/ZhangCVPPP2019.pdf)
 - **Visualizing Data Driven Phenotypes**   
 Xiaotong Liu, Hong Xuan, Zeyu Zhang, Abby Stylianou, Robert Pless   
