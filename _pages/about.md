@@ -30,5 +30,5 @@ Zeyu Zhang, Hong Xuan, Xiaotong Liu, Abby Stylianou, Robert Pless
 CVPPP 2019 [[paper]](https://www.plant-phenotyping.org/lw_resource/datapool/systemfiles/elements/files/c7538f5c-7552-11e9-b1c5-dead53a91d31/current/document/ZhangCVPPP2019.pdf)
 - **Visualizing how embeddings generalize**   
 Xiaotong Liu, Hong Xuan, Zeyu Zhang, Abby Stylianou, Robert Pless   
-arXiv [[paper]](https://arxiv.org/pdf/1909.07464.pdf)
+ICML Workshop 2019 [[paper]](https://arxiv.org/pdf/1909.07464.pdf)
 
