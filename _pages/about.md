@@ -21,7 +21,7 @@ Publications
 ======
 - **Comparing Deep Learning Approaches for Understanding Genotype× Phenotype Interactions in Biomass Sorghum.**   
 Zeyu Zhang, Madison Pope, Nadia Shakoor, Robert Pless, Todd C. Mockler, Abby Stylianou
-Frontiers in Artificial Intelligence 5 (2022) [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9289439/pdf/frai-05-872858.pdf)
+Frontiers in Artificial Intelligence 5 2022 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9289439/pdf/frai-05-872858.pdf)
 - **Metric Learning for Large Scale Agricultural Phenotyping.**   
 Zeyu Zhang, Abby Stylianou, Robert Pless   
 NAPPN 2021 [[paper]](https://www.essoar.org/doi/10.1002/essoar.10508292.1)
