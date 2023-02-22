@@ -13,9 +13,11 @@ I'm a PhD candidate of Computer Science at George Washington University. I'm adv
 About my work
 ======
 I am a researcher specializing in deep learning and computer vision. My current focus is on a project that involves analyzing hundreds of sorghum cultivars using a large dataset curated from TERRA.
-Utilizing advanced deep metric learning methods, I have constructed an image feature space to help interpret the various phenotypes and genotypes of the sorghum plants. Through visualizing the activation areas of the images, I can better comprehend the relationship between different cultivars and learn about their growth patterns.
-To better understand this complex data, I have also developed a [embedding visualization tool](https://github.com/zhzyx/embedding-visualization) that visualize data in high-dimensional space and enables me to explore different kinds of labels in multimodal datasets. This has helped me identify trends within each cultivar cluster and pinpoint which cultivars do not cluster well at the start of the season.
+
+Utilizing advanced deep metric learning methods, I have constructed an image feature space to help interpret the various phenotypes and genotypes of the sorghum plants. Through visualizing the activation areas of the images, I can better comprehend the relationship between different cultivars and learn about their growth patterns. To better understand this complex data, I have also developed a [embedding visualization tool](https://github.com/zhzyx/embedding-visualization) that visualize data in high-dimensional space and enables me to explore different kinds of labels in multimodal datasets. This has helped me identify trends within each cultivar cluster and pinpoint which cultivars do not cluster well at the start of the season.
+
 Prior to this project, I worked on sorghum leaf morphological phenotyping from 3D scanner data. I built a [semi-automated annotation tool](https://github.com/zhzyx/sorghum-annotator) to label leaves, which was used to train a deep convolutional neural network to segment leaves. I also used the point cloud data to build a leaf voxel adjacency graph to extract phenotypes such as leaf length and curvature.
+
 Through my work in deep learning and computer vision, I believe that we can make significant strides in the agricultural industry by gaining a better understanding of how genotype and environment interact. With my research in sorghum cultivar phenotyping and analysis, I am excited to explore the potential of these technologies to improve agricultural practices. I am passionate about continuing to contribute to this field and am always looking for new research opportunities to further advance our knowledge in this area.
 
 
