@@ -22,12 +22,13 @@ Publications
 ======
 - **SG×P: A Sorghum Genotype×Phenotype Prediction Dataset and Benchmark**   
 Zeyu Zhang, Robert Pless, Nadia Shakoor, Austin Carnahan, Abby Stylianou
-Advances in Neural Information Processing Systems 36 (2023) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/39d02e8e23bafadd7cd405f2281bc05c-Paper-Datasets_and_Benchmarks.pdf)
+NeurIPS 2023
+[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/39d02e8e23bafadd7cd405f2281bc05c-Paper-Datasets_and_Benchmarks.pdf)
 - **What Does Learning About Time Tell About Outdoor Scenes?**   
 Zeyu Zhang, Callista Baker, Noor Azam-Naseeruddin, Jingzhou Shen, Robert Pless  
 AIPR Workshop 2022
 - **Comparing Deep Learning Approaches for Understanding Genotype× Phenotype Interactions in Biomass Sorghum.**   
-Zeyu Zhang, Madison Pope, Nadia Shakoor, Robert Pless, Todd C. Mockler, Abby Stylianou
+Zeyu Zhang, Madison Pope, Nadia Shakoor, Robert Pless, Todd C. Mockler, Abby Stylianou   
 Frontiers in Artificial Intelligence 5 2022 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9289439/pdf/frai-05-872858.pdf)
 - **Metric Learning for Large Scale Agricultural Phenotyping.**   
 Zeyu Zhang, Abby Stylianou, Robert Pless   
