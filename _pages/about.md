@@ -20,6 +20,9 @@ Through my work in deep learning and computer vision, I believe that we can make
 
 Publications
 ======
+- **SG×P: A Sorghum Genotype×Phenotype Prediction Dataset and Benchmark**   
+Zeyu Zhang, Robert Pless, Nadia Shakoor, Austin Carnahan, Abby Stylianou
+Advances in Neural Information Processing Systems 36 (2023) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/39d02e8e23bafadd7cd405f2281bc05c-Paper-Datasets_and_Benchmarks.pdf)
 - **What Does Learning About Time Tell About Outdoor Scenes?**   
 Zeyu Zhang, Callista Baker, Noor Azam-Naseeruddin, Jingzhou Shen, Robert Pless  
 AIPR Workshop 2022
